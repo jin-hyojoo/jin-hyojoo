@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0696e9ee-6114-41e5-ac57-a2cb0f438059" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
- </div>
+## 📚 Certifications   
+  <a href="https://www.credly.com/badges/0696e9ee-6114-41e5-ac57-a2cb0f438059/public_url"><img src="./img/aws-certified-developer-associate.png"></a>
