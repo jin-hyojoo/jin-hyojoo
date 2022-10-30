@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ## 📚 Certifications   
   <a href="https://www.credly.com/badges/0696e9ee-6114-41e5-ac57-a2cb0f438059/public_url"><img src="./img/aws-certified-developer-associate.png"></a>
+  <a href="https://www.credly.com/badges/12df3e94-e7dc-4f14-8efb-081f79d96075/public_url"><img src="./img/aws-certified-devops-engineer-professional (2).png"></a>
+  
